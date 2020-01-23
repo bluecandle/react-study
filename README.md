@@ -1,1 +1,1 @@
-# -study-react-boilerplate
+[study]react-boilerplate
